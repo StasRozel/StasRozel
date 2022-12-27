@@ -4,7 +4,8 @@
   <img src="https://i.gifer.com/origin/06/06867fc80e729d9b31ecdd14e0638aea_w200.gif" width="200" header="200"/>
 </div>
 <p align="center">I ♥ СSS</p>
-
+<p align="center">-------------------------------------------------------------------------------------</p>
+I am a studen for BSTU (Belarus);
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
