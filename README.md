@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://i.gifer.com/origin/06/06867fc80e729d9b31ecdd14e0638aea_w200.gif" width="100"/>
+  <img src="https://i.gifer.com/origin/06/06867fc80e729d9b31ecdd14e0638aea_w200.gif" width="200" header="200"/>
 </div>
 
 
