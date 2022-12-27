@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://i.gifer.com/origin/06/06867fc80e729d9b31ecdd14e0638aea_w200.gif" width="200" header="200"/>
 </div>
-<center>I ♥ СSS</center>
+<p align="center">I ♥ СSS</p>
 
 <!--
 **StasRozel/StasRozel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
