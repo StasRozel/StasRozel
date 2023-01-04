@@ -16,6 +16,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; 
 </div>
+<a href="https://github.com/StasRozel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StasRozel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <!--
 **StasRozel/StasRozel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
